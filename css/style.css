@@ -77,7 +77,7 @@ ul, li {
   -ms-align-items: center;
   align-items: center;
   height: 380px;
-  background-image: url("../img/back.JPG");
+  background-image: url("../img/back.jpg");
   background-size:cover;
   background-position: 50%;
 }
